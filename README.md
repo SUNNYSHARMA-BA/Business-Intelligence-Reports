@@ -3,7 +3,7 @@
 ## Table of Contents
 - [1. Stakeholder Requirements Document](#1-stakeholder-requirements-document)
 - [2. Project Requirements Document](#2-project-requirements-document)
-- [3. Planning Document](#3-planning-document)
+- [3. Strategy Document](#3-strategy-document)
 - [4. Questions & Considerations](#4-questions--considerations)
 
 ---
@@ -79,7 +79,7 @@ MarkIt is a consumer-to-consumer online platform for buying and selling previous
 
 ---
 
-## 3. Planning Document
+## 3. Strategy Document
 
 ### Timeline & Milestones
 
